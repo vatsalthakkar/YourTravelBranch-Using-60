@@ -1,0 +1,90 @@
+body{
+	background-color: #e3e3e3;
+}
+img{
+	width:700px;
+	height: 400px;
+}
+dt a{
+	color: maroon;
+	text-shadow: 2px 1px 3px yellow;
+}
+h1{
+
+	color:  maroon;
+	background-color: powderblue;
+	height: 70px;
+	text-align: center;
+	padding-top: 20px;
+	margin:auto;
+	border: 1px black solid;
+	font-size: 30px;
+	text-shadow: 5px 3px 5px yellow;
+}
+h3{
+	font-size: 20px;
+	padding-top: 20px;
+	color: maroon;
+	margin-bottom: 5px;
+	text-shadow: 2px 1px 3px yellow;
+	/*text-decoration: underline;*/
+}
+p{
+	margin-top: 20px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-bottom: 10px;
+}
+
+aside a{
+	color: blue;
+	text-decoration: none;
+}
+dd a{
+	color: red;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding:15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+th {
+    text-align: left;
+}
+table{
+	margin-top: 20px;
+}
+ul{
+	font-size: 13px;
+	padding-bottom: 10px;
+	padding-right: 15px;
+	/*border: 1px white solid;*/
+	
+}
+a:hover {
+    background-color: yellow;
+    text-decoration: underline;
+}
+dt{
+	font-size: 20px;
+	margin-bottom: 5px;
+}
+label{
+	margin-top: 20px;
+	display: block;
+}
+
+#button{
+	margin-right: 5px;
+}
+#button:hover{
+	background-color: powderblue;
+}
+ul a{
+	 <marquee direction = "up"></marquee>
+}
